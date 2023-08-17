@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Bohemian Rhapsody",
+      "duration": 355,
+      "artist": "Queen"
+    },
+    {
+      "id": 2,
+      "title": "Imagine",
+      "duration": 220,
+      "artist": "John Lennon"
+    },
+    {
+      "id": 3,
+      "title": "Hotel California",
+      "duration": 315,
+      "artist": "Eagles"
+    },
+    {
+      "id": 4,
+      "title": "Like a Rolling Stone",
+      "duration": 290,
+      "artist": "Bob Dylan"
+    },
+    {
+      "id": 5,
+      "title": "Billie Jean",
+      "duration": 250,
+      "artist": "Michael Jackson"
+    },
+    {
+      "id": 6,
+      "title": "Boogie Wonderland",
+      "duration": 280,
+      "artist": "Earth, Wind & Fire"
+    },
+    {
+      "id": 7,
+      "title": "Smells Like Teen Spirit",
+      "duration": 230,
+      "artist": "Nirvana"
+    },
+    {
+      "id": 8,
+      "title": "Shape of You",
+      "duration": 235,
+      "artist": "Ed Sheeran"
+    },
+    {
+      "id": 9,
+      "title": "Yesterday",
+      "duration": 180,
+      "artist": "The Beatles"
+    },
+    {
+      "id": 10,
+      "title": "Purple Haze",
+      "duration": 200,
+      "artist": "Jimi Hendrix"
+    }
+  ]
+  
